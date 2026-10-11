@@ -229,6 +229,9 @@ An academic project exploring battery health assessment and adaptive electric-ve
 ---
 
 
+🐍 My Contribution Snake
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/Anna948/Anna948/output/github-contribution-grid-snake.svg)
 
 
 
@@ -269,6 +272,3 @@ I'm always interested in learning, collaborating, and contributing to meaningful
 *Thanks for visiting my profile! ⭐*
 
 </div>
-### 🐍 My Contribution Snake
-
-![GitHub Contribution Snake](https://raw.githubusercontent.com/Anna948/Anna948/output/github-contribution-grid-snake.svg)
