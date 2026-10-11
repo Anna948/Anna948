@@ -229,22 +229,23 @@ An academic project exploring battery health assessment and adaptive electric-ve
 ---
 
 
+## 🌱 Yearly Contributions
+
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="500">
-      <h3>🌱 Yearly Contributions</h3>
-      <img src="https://img.shields.io/badge/Contributions-198-238636?style=for-the-badge&logo=github&logoColor=white" alt="198 contributions in the last year"/>
-      <br/><br/>
-      <strong>198 contributions in the last year</strong>
-      <br/>
-      <sub>Consistently learning, building, and contributing.</sub>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/Anna948">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anna948&show_icons=true&hide_border=true&bg_color=0d1117&title_color=2ecc71&icon_color=2ecc71&text_color=c9d1d9" alt="Anna's live GitHub statistics" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Anna948">
+  <img src="https://streak-stats.demolab.com?user=Anna948&hide_border=true&background=0D1117&ring=2ECC71&fire=2ECC71&currStreakLabel=2ECC71&sideLabels=C9D1D9&dates=8B949E" alt="Anna's live GitHub contribution streak" />
+</a>
 
 </div>
+
+
 
 ## 🤝 Beyond Coding
 
