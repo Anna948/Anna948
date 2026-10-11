@@ -229,21 +229,7 @@ An academic project exploring battery health assessment and adaptive electric-ve
 ---
 
 
-## 🌱 Yearly Contributions
 
-<div align="center">
-
-<a href="https://github.com/Anna948">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anna948&show_icons=true&hide_border=true&bg_color=0d1117&title_color=2ecc71&icon_color=2ecc71&text_color=c9d1d9" alt="Anna's live GitHub statistics" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Anna948">
-  <img src="https://streak-stats.demolab.com?user=Anna948&hide_border=true&background=0D1117&ring=2ECC71&fire=2ECC71&currStreakLabel=2ECC71&sideLabels=C9D1D9&dates=8B949E" alt="Anna's live GitHub contribution streak" />
-</a>
-
-</div>
 
 
 
