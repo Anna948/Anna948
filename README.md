@@ -228,6 +228,24 @@ An academic project exploring battery health assessment and adaptive electric-ve
 
 ---
 
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="500">
+      <h3>🌱 Yearly Contributions</h3>
+      <img src="https://img.shields.io/badge/Contributions-198-238636?style=for-the-badge&logo=github&logoColor=white" alt="198 contributions in the last year"/>
+      <br/><br/>
+      <strong>198 contributions in the last year</strong>
+      <br/>
+      <sub>Consistently learning, building, and contributing.</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
 ## 🤝 Beyond Coding
 
 - **NCC Cadet — Army Wing:** Developed discipline, teamwork, and leadership; earned the NCC 'C' certificate.
